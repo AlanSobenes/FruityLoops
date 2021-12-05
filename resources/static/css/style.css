@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+#color{
+	color:pink;
+}
+#border{
+	border:15px pink solid;
+	width:400px;
+	height: 200px;
+	text-align: left;
+}
+#smallBorder{
+	border:2px pink solid;
+}
+.uline{
+	border-top: 1pt solid pink;
+}
